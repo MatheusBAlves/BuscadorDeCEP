@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BuscadorDeCEP/static/css/main.9909aa4c.css",
+    "main.js": "/BuscadorDeCEP/static/js/main.1dc9dc04.js",
+    "index.html": "/BuscadorDeCEP/index.html",
+    "main.9909aa4c.css.map": "/BuscadorDeCEP/static/css/main.9909aa4c.css.map",
+    "main.1dc9dc04.js.map": "/BuscadorDeCEP/static/js/main.1dc9dc04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9909aa4c.css",
+    "static/js/main.1dc9dc04.js"
+  ]
+}
